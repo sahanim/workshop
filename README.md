@@ -14,3 +14,6 @@
 ## 90W DC Motor - 3D Printed and Self Wound
 ![207470619_328630408838493_8114464442239168988_n](https://user-images.githubusercontent.com/23080913/123577737-6854e500-d7a2-11eb-9796-288b583b3dea.jpg)
 
+## Aluminum Sheet Casting
+![204893246_1420747511637739_4817512409909130975_n](https://user-images.githubusercontent.com/23080913/123578269-722b1800-d7a3-11eb-92f2-9bf0498a9d95.jpg)
+
