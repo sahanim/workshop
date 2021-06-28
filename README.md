@@ -1,1 +1,16 @@
 # workshop
+## Server Rack
+![204676878_526730735416371_4359091212598236783_n](https://user-images.githubusercontent.com/23080913/123577628-30e63880-d7a2-11eb-9b7a-0564a11ee43a.jpg)
+
+## Tool Wall
+![205658775_364597581663917_6595221603310889581_n](https://user-images.githubusercontent.com/23080913/123577647-3e032780-d7a2-11eb-8d3b-0186d1d302e9.jpg)
+
+## 3D Printing Wall
+![205712347_925192768322095_3393155122943073972_n](https://user-images.githubusercontent.com/23080913/123577674-507d6100-d7a2-11eb-9253-0a8f2606fc9e.jpg)
+
+## CNC Milling Station
+![206147586_192324302805895_904689982132342340_n](https://user-images.githubusercontent.com/23080913/123577697-5a9f5f80-d7a2-11eb-90c6-39b040acbfbd.jpg)
+
+## 90W DC Motor - 3D Printed and Self Wound
+![207470619_328630408838493_8114464442239168988_n](https://user-images.githubusercontent.com/23080913/123577737-6854e500-d7a2-11eb-9796-288b583b3dea.jpg)
+
