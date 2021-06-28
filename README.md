@@ -1,4 +1,4 @@
-# workshop
+# Workshop
 ## Server Rack
 ![204676878_526730735416371_4359091212598236783_n](https://user-images.githubusercontent.com/23080913/123577628-30e63880-d7a2-11eb-9b7a-0564a11ee43a.jpg)
 
